@@ -1,5 +1,7 @@
 # TypeScript Maze
 
+Constructs a maze and then get's a bot to solve it and work out the shortest route.
+
 Demo --> https://dulcet-crumble-fe04a8.netlify.app/
 
 Uses --> https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
